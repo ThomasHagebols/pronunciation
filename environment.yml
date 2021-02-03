@@ -1,0 +1,13 @@
+name: pronunciation
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - nltk
+  - pandas
+  - pip
+  - ipywidgets
+  - pip:
+    - pronouncing
