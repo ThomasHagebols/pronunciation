@@ -6,4 +6,4 @@ Quick and dirty tool to help fetch do some natural language metrics
 
 Click the button below
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/git@github.com:ThomasHagebols/pronunciation.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThomasHagebols/pronunciation.git/HEAD)
